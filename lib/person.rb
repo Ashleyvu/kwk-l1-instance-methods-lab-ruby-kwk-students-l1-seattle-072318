@@ -1,5 +1,5 @@
 # person.rb
-class Dog 
+class Person 
   def talk
     puts "Hello World!"
   end
