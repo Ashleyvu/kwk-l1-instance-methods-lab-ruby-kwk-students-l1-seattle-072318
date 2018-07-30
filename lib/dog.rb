@@ -12,5 +12,10 @@
 # puts dog_one
 
 class Dog 
-  
-  def 
+  def bark
+    puts "Woof!"
+  end
+  def sit
+    "The Dog is sitting"
+  end
+end
