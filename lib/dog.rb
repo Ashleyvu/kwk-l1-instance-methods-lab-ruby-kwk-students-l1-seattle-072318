@@ -12,4 +12,5 @@
 # puts dog_one
 
 class Dog 
+  
   def 
